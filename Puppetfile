@@ -59,3 +59,16 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "redis"
+github "alfred"
+github "xscope"
+github "ctags"
+github "sourcetree"
+github "xctool"
+github "wget"
+github "sublime_text"
+github "steam"
+github "onepassword"
+github "sequel_pro"
+
+mod "openresty", :git => "https://github.com/MessageSystems/puppet-openresty"
